@@ -1,1 +1,1 @@
-# sikhosaathmein.github.io
+# LearnifyHindi.github.io
